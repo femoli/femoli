@@ -1,16 +1,17 @@
-### Hi there 👋
+## 💜 ("hello, world!")
 
-<!--
-**femoli/femoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="300px" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Oi, meu nome é Fernanda.   
+🌱 Fiz transição de carreira da área de Arquitetura e Urbanismo para TI.  
+🎓 Sou formada em Banco de Dados e estou na área de tecnologia há 4 anos.  
+💼 Tenho atuado em projetos full-stack, em atividades de backend, dados e devOps.
+
+
+### 🚀 skills
+[![My Skills](https://skillicons.dev/icons?i=git,linux,nodejs,mongodb,py,grafana,aws,cassandra)](https://skillicons.dev) 
+
+
+### 📊 github analytics
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=femoli&theme=dark&hide_border=false" alt="Github Stats"/>
