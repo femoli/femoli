@@ -13,6 +13,3 @@ Oi, meu nome é Fernanda.
 
 ### 🚀 skills
 [![My Skills](https://skillicons.dev/icons?i=git,linux,nodejs,mongodb,py,grafana,aws,cassandra)](https://skillicons.dev) 
-
-### 📊 github analytics
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=femoli&theme=dark&hide_border=false" alt="Github Stats"/>
